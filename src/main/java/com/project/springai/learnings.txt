@@ -1,0 +1,5 @@
+Message Roles in LLM(s)
+When interacting with LLM(s) we send prompts as messages. These messages helps the LLM
+In getting better context and on how to respond better.
+
+By Default

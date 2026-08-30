@@ -1,3 +1,3 @@
 ### GET request to example server
-GET http://localhost:8080/api/chat?message=Who are you?
+GET http://localhost:8080/api/chat?message=Tell me a brutal science joke?
 ###
