@@ -1,0 +1,3 @@
+### GET request to example server
+GET http://localhost:8080/api/prompt-stuffing?message=I've taken 5 leaves this year. How many more leaves i can take this year.
+###
