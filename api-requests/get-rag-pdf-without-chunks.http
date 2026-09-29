@@ -1,0 +1,4 @@
+### GET request to example server
+GET http://localhost:8080/api/rag/document/fetch?message=What is Redis?
+username: gaurav120
+###
